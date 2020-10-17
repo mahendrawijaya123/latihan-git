@@ -11,7 +11,7 @@
 
 ``git --version``
 
-![20201016_163410 1](https://user-images.githubusercontent.com/66506609/96243082-71b06f80-0fce-11eb-9a03-940defed1612.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/72625796/96330078-af6bd180-107c-11eb-8449-8338d864aebe.png)
 
 
 ### Menambahkan Global Config
@@ -26,7 +26,7 @@
 
 `$ git config --global user.email “nama_user”`
 
-![20201016_163452 1](https://user-images.githubusercontent.com/66506609/96243249-a8868580-0fce-11eb-954a-39270ac9c26c.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/72625796/96330254-205fb900-107e-11eb-8b0f-3eda999438c6.png)
 
 ### Perintah Dasar Git
 
@@ -73,7 +73,8 @@ $ cd latihan1``
 `$ git add README.md`
 * File **README.md** berhasil ditambahkan.
 
-![Screenshot (50)](https://user-images.githubusercontent.com/66506609/96245078-221f7300-0fd1-11eb-9171-a25f2bdbfa35.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/72625796/96330563-4c7c3980-1080-11eb-843b-d7467e6ac85a.png)
+
 
 
 ### `Commit` (Menyimpan perubahan ke database)
@@ -82,7 +83,7 @@ $ cd latihan1``
 `$ git commit -m “File pertama saya”`
 * Perubahan berhasil disimpan.
 
-![20201016_163326 1](https://user-images.githubusercontent.com/66506609/96244442-43339400-0fd0-11eb-8fdb-45032a8ec449.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/72625796/96330563-4c7c3980-1080-11eb-843b-d7467e6ac85a.png)
 
 
 ### Membuat repository server
@@ -92,7 +93,7 @@ $ cd latihan1``
 * Pada laman github, klik tombol start a project, atau
 * Dari menu (icon +) klik New Repository
 
-![Screenshot (39)](https://user-images.githubusercontent.com/66506609/95936476-da95bd00-0dff-11eb-826d-c7b34e2c45fc.png)
+![Screenshot (1)](https://user-images.githubusercontent.com/72625796/96330074-ab3fb400-107c-11eb-8d99-1df622042e4b.png)
 
 
 ### Membuat repository server
@@ -114,7 +115,7 @@ $ cd latihan1``
 `$ git push -u origin master`
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
-![Screenshot (50)](https://user-images.githubusercontent.com/66506609/96245078-221f7300-0fd1-11eb-9171-a25f2bdbfa35.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/72625796/96330742-e1336700-1081-11eb-89d3-d2f97b00482c.png)
 
 
 ### Melihat hasilnya pada server repository
@@ -122,7 +123,8 @@ $ cd latihan1``
 * Buka laman github.com, arahkan pada repositorinya.
 * Maka perubahan akan terlihat pada laman tersebut.
 
-![Screenshot (41)](https://user-images.githubusercontent.com/66506609/95936958-eafa6780-0e00-11eb-85fa-262b7f92ef40.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/72625796/96330767-35d6e200-1082-11eb-9b72-ea6d759cdbdd.png)
+
 
 
 ### Clone Repository
@@ -130,7 +132,7 @@ $ cd latihan1``
 * Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
 * Untuk melakukan cloning, gunakan perintah `git clone [url]`
 
-![Screenshot (59)](https://user-images.githubusercontent.com/66506609/96254417-76c9ea80-0fdf-11eb-8af2-15adba4f4c33.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/72625796/96330858-0aa0c280-1083-11eb-9cd2-bcba1ffbc02f.png)
 
 ### Kegunaan file README.md
 
@@ -141,6 +143,4 @@ $ cd latihan1``
 
 
 
-### Author : Muhammad Rizky Abdillah
-![giphy-preview](https://user-images.githubusercontent.com/66506609/96253867-8bf24980-0fde-11eb-841c-8b8a6ba0171f.gif)
-
+### Author : Mahendra Wijaya
